@@ -1,0 +1,11 @@
+C:\Users\каплин станислав\source\repos\chess\chess\bin\Debug\chess.exe.config
+C:\Users\каплин станислав\source\repos\chess\chess\bin\Debug\chess.exe
+C:\Users\каплин станислав\source\repos\chess\chess\bin\Debug\chess.pdb
+C:\Users\каплин станислав\source\repos\chess\chess\obj\Debug\chess.csproj.AssemblyReference.cache
+C:\Users\каплин станислав\source\repos\chess\chess\obj\Debug\chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\каплин станислав\source\repos\chess\chess\obj\Debug\chess.Form1.resources
+C:\Users\каплин станислав\source\repos\chess\chess\obj\Debug\chess.Properties.Resources.resources
+C:\Users\каплин станислав\source\repos\chess\chess\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\каплин станислав\source\repos\chess\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\каплин станислав\source\repos\chess\chess\obj\Debug\chess.exe
+C:\Users\каплин станислав\source\repos\chess\chess\obj\Debug\chess.pdb
